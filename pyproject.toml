@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "kassautomate"
 version = "0.1.0"
-description = "Framework para desenvolviemento de ETL, RPA, controler de processos e com uma api integrada"
+description = "Framework Python para desenvolviemento de ETLs, RPAs, controle de processos e com uma api integrada"
 authors = ["kassiodouglas <kass.doug@gmail.com>"]
 readme = "README.md"
 packages = [{include = "kassautomate"}]

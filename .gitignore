@@ -153,4 +153,7 @@ cython_debug/
 
 
 .txt
+.csv
+.excel
 pytest.ini
+desktop.ini
