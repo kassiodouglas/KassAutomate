@@ -1,0 +1,14 @@
+site_name: KassAutomate
+repo_url: https://github.com/kassiodouglas/KassAutomate
+repo_name: kassiodouglas/KassAutomate
+edit_uri: tree/main/docs
+
+theme: 
+  name: material
+  language: pt-BR
+
+plugins:
+- mkdocstrings:
+    handlers:
+      python:
+        paths: [kassautomate]
